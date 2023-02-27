@@ -1,30 +1,8 @@
-# Clone A Agency website
+##Agency website
 
-This project is https://lustrous-shortbread-7c8181.netlify.app/
+### Deploy Status
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world)
 
-All assets are available in assets folder ("src/assets and src/utils)
-
-## Available Sections
-
-### Responsive Navbar
-
-### Hero Section
-
-### Contributor Section
-
-### About Section
-
-### Services Section
-
-### Skills Section
-
-### Successful work Section
-
-### Testimonial Section
-
-### Contact Section
-
-### Footer Section
 
 ![ss1](https://user-images.githubusercontent.com/76781353/196644456-1119cdf6-e09e-4bf3-a2c4-24da1593c545.png)
 
